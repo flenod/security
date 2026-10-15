@@ -1,1 +1,1 @@
-{"api_key": "${PUBLIC_PROOF_SECRET}", "event_id": "79297c9786d44e008583ccf7e61bd9ed", "notice": "CONTROLLED TEST ONLY. THIS VALUE WAS NEVER ISSUED BY ANY SERVICE.", "purpose": "measure authorized public publication to automatic detection"}
+{"api_key": "SyntheticOnlyPublicProof_79297c9786d44e008583ccf7e61bd9ed_1", "event_id": "79297c9786d44e008583ccf7e61bd9ed", "notice": "CONTROLLED TEST ONLY. THIS VALUE WAS NEVER ISSUED BY ANY SERVICE.", "purpose": "measure authorized public publication to automatic detection"}
